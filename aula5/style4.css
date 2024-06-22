@@ -1,0 +1,24 @@
+body{
+    background-image:url(img/WhatsApp\ Image\ 2024-06-19\ at\ 16.49.16.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*#ano1950{
+
+    width: 90vw;
+    border: 1px solid black;
+    margin:10px auto;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(255, 255, 255);
+}
+*#ano1960{
+
+    width: 90vw;
+    border: 1px solid black;
+    margin:10px auto;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(252, 250, 242);
+}

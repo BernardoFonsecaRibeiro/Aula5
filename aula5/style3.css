@@ -1,0 +1,38 @@
+*{
+    color: rgb(0, 0, 0);
+}
+
+body{
+    background-image:url(img/192034.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*#ano1920{
+    width: 90vw;
+    border: 1px solid rgb(19, 19, 19);
+    margin:10px auto;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(214, 178, 165);
+    ;
+}
+*#ano1930{
+    width: 90vw;
+    border: 1px solid rgb(19, 19, 19);
+    margin:10px auto;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(190, 143, 127);
+    ;
+
+}
+*#ano1940{
+    width: 90vw;
+    border: 1px solid rgb(19, 19, 19);
+    margin:10px auto;
+    justify-content: space-around;
+    align-items: center;
+    background-color:rgb(151, 110, 96);
+    ;
+}

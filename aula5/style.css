@@ -1,0 +1,81 @@
+
+*{
+    margin: 100;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nothing You Could Do", cursive;
+}
+.nothing-you-could-do-regular {
+    font-family: "Nothing You Could Do", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+/* configuração do header     */
+
+header{
+ width: 90vw;
+ border: 1px solid black;
+ margin:10px auto;
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ background-color: rgb(105, 72, 34);
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+  
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    list-style: none;
+    padding: 20px;
+    gap: 20px;
+   
+
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+color: rgb(0, 0, 0); font-family: 'Courier New', Courier, monospace;
+font-size: 1.8rem;
+
+
+}
+body{
+    background-image: url(./img/fund.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*#sec20{
+    width: 90vw;
+    border: 1px solid black;
+    margin:10px auto;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(105, 72, 34);
+    image-rendering: center;
+}
+p{
+    text-align: justify;
+    padding: 20px;
+}
+#sec20{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#sec20 p{
+font-size: 1.5rem;
+}
